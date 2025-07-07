@@ -3,7 +3,9 @@
   Aspiring hacker. Builder. Obsessive learner. <br>
   <strong>Currently grinding 100 CTFs for the month of july</strong> 💻🔐
 </p>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/CTFs_Completed-40%2F100-green?style=for-the-badge" />
+</p>
 ---
 
 ## 🧬 About Me
