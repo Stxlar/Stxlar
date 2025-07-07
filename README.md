@@ -28,7 +28,7 @@ I’m solving **100 Capture The Flag challenges by the end of July 2025**.
 - ✅ PicoCTF challenges
 - ✅ HTB
 - 🔜 More from pwnable.kr, overthewire, etc.
-- 📚 All documented in [my CTF writeups repo](https://github.com/Stxlar/CTF-Writeups)
+- 📚 All documented in [my CTF writeups repo](https://github.com/Stxlar/CTF_Writeups)
 
 ---
 
@@ -53,7 +53,7 @@ I mostly work with:
 
 ## 📚 Ongoing Projects
 
-- [`ctf-writeups`](https://github.com/yourusername/ctf-writeups) – Daily CTF grind, medium/hard walkthroughs
+- [`ctf-writeups`](https://github.com/Stxlar/CTF_Writeups) – Daily CTF grind, medium/hard walkthroughs
 - `payload-sandbox` – My personal toolbox for crafting and testing exploits (coming soon)
 
 ---
