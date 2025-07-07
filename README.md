@@ -76,7 +76,6 @@ I don’t just want flags — I want to understand the systems I’m breaking, d
 
 <p align="center">
   <img src="https://img.shields.io/badge/CTFs_Completed-60%2F100-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Linux%20Nerd-yes-informational?style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/badge/Hacker_in_Progress-%F0%9F%92%AA-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/in_Progress-%F0%9F%92%AA-black?style=for-the-badge" />
 </p>
 
