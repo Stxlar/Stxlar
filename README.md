@@ -28,7 +28,7 @@ I’m solving **100 Capture The Flag challenges by the end of July 2025**.
 - ✅ PicoCTF challenges
 - ✅ HTB
 - 🔜 More from pwnable.kr, overthewire, etc.
-- 📚 All documented in [my CTF writeups repo](https://github.com/yourusername/ctf-writeups)
+- 📚 All documented in [my CTF writeups repo](https://github.com/Stxlar/CTF-Writeups)
 
 ---
 
