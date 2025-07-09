@@ -4,7 +4,7 @@
   <strong>Currently grinding 100 CTFs for the month of july</strong> 💻🔐
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/CTFs_Completed-40%2F100-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CTFs_Completed-41%2F100-green?style=for-the-badge" />
 </p>
 ---
 
@@ -75,7 +75,7 @@ I don’t just want flags — I want to understand the systems I’m breaking, d
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CTFs_Completed-40%2F100-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CTFs_Completed-41%2F100-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/in_Progress-%F0%9F%92%AA-black?style=for-the-badge" />
 </p>
 
