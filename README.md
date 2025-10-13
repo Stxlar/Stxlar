@@ -1,7 +1,6 @@
 <h1 align="center">Hey, I’m Stellar 🧠💥</h1>
 <p align="center">
   Aspiring hacker. Builder. Obsessive learner. <br>
-  <strong>Currently grinding 100 CTFs for the month of july</strong> 💻🔐
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/CTFs_Completed-45%2F100-green?style=for-the-badge" />
@@ -21,9 +20,7 @@ Right now I’m focused on:
 
 ---
 
-## 💡 Current Challenge: 100 CTFs in 31 Days
-
-I’m solving **100 Capture The Flag challenges by the end of July 2025**.
+I’m solving **Capture The Flag chalenges**.
 
 - ✅ PicoCTF challenges
 - ✅ HTB
